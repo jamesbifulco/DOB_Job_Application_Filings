@@ -4,9 +4,9 @@ This project was created to research the increase in the market of potential cus
 
 **Project Organization:** The directory organization for our project follows the structure listed below:
 
-├── Data Visualization  <- A folder containing the various iterations of data visualization for this project, namely utilizing GIS data to plot our data on a map of New York City.
-├── Documents <- Inlcusion of the main findings of our project and presentation given to company stakehplders.
-├── Jupyter Notebooks <- A collection of various workbooks each progressing in detail until reaching desired insight and organization (Notebook 7).
-│
-├── LICENSE
-├── README.md   <- The top-level README for developers using this project.
+        ├── Data Visualization  <- A folder containing the various iterations of data visualization for this project, namely utilizing GIS data to plot our data on a map of New York City.
+        ├── Documents <- Inlcusion of the main findings of our project and presentation given to company stakehplders.
+        ├── Jupyter Notebooks <- A collection of various workbooks each progressing in detail until reaching desired insight and organization (Notebook 7).
+        │
+        ├── LICENSE
+        ├── README.md   <- The top-level README for developers using this project.
